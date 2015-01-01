@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="libs/javax.jar"/>
+	<classpathentry kind="lib" path="/Users/zhili/development/HowTomcatWorksSourceCode/src/org"/>
+	<classpathentry kind="lib" path="libs/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="libs/commons-collections.jar"/>
+	<classpathentry kind="lib" path="libs/commons-daemon.jar"/>
+	<classpathentry kind="lib" path="libs/commons-digester.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging.jar"/>
+	<classpathentry kind="lib" path="libs/commons-modeler.jar"/>
+	<classpathentry kind="lib" path="libs/jaas.jar"/>
+	<classpathentry kind="lib" path="libs/jakarta-regexp-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/jcert.jar"/>
+	<classpathentry kind="lib" path="libs/jnet.jar"/>
+	<classpathentry kind="lib" path="libs/jsse.jar"/>
+	<classpathentry kind="lib" path="libs/mx4j.jar"/>
+	<classpathentry kind="lib" path="libs/naming-common.jar"/>
+	<classpathentry kind="lib" path="libs/naming-factory.jar"/>
+	<classpathentry kind="lib" path="libs/naming-resources.jar"/>
+	<classpathentry kind="lib" path="libs/servlet.jar"/>
+	<classpathentry kind="lib" path="libs/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="libs/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="libs/xmlParserAPIs.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
